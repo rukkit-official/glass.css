@@ -41,15 +41,24 @@ Most CSS frameworks handle layout, not visual effects.
 ## Usage from CDN
 
 ```html
-<link rel="stylesheet" href="https://rukkit.net/css/glass.css">
+npm install glass_ui.css
+```
 
+```html
+yarn install glass_ui.css
+```
+
+```html
+<link rel="stylesheet" href="https://rukkit.net/css/glass.css">
+```
+```html
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/glass_ui.css/glass_ui.css"
 />
 ```
 
-Stack it on top of another framework:
+Stack it on top of another framework:pico.css
 
 ```html
 <link
@@ -143,3 +152,5 @@ It enhances it.
 ---
 
 ## License
+
+MIT License
