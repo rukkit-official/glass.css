@@ -38,7 +38,7 @@ Most CSS frameworks handle layout, not visual effects.
 
 ---
 
-## Usage from CDN
+## Usage from NPM
 
 ```html
 npm install glass_ui.css
@@ -47,6 +47,8 @@ npm install glass_ui.css
 ```html
 yarn install glass_ui.css
 ```
+
+## Usage from CDN
 
 ```html
 <link rel="stylesheet" href="https://rukkit.net/css/glass.css">
